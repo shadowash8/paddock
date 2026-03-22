@@ -9,6 +9,12 @@ A random F1 quote or meme terminal ASCII art generator.
 ## installation
 
 ```bash
+pipx install git+https://github.com/shadowash8/paddock.git
+```
+
+## development
+
+```bash
 git clone https://github.com/shadowash8/paddock.git
 cd paddock
 
