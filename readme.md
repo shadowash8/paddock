@@ -2,6 +2,22 @@
 
 A random F1 quote or meme terminal ASCII art generator.
 
+eg.
+
+```
+❯ paddock
+
+                  _____            __       __             __
+                 / __(_)_ _  ___  / /_ __  / /__ _  _____ / /_ __
+                _\ \/ /  ' \/ _ \/ / // / / / _ \ |/ / -_) / // /
+               /___/_/_/_/_/ .__/_/\_, / /_/\___/___/\__/_/\_, /
+                          /_/     /___/                   /___/
+
+
+    — Du Du Du Max Verstappen
+
+```
+
 ## requirement
 
 - python
