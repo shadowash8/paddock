@@ -1,6 +1,6 @@
 # paddock
 
-A random F1 quote or meme terminal ASCII art generator.
+a random F1 quote or meme terminal ASCII art generator.
 
 eg.
 
@@ -23,6 +23,16 @@ eg.
 - python
 
 ## installation
+
+### aur
+
+if you are on archlinux you can install the `paddock-git` package with your aur helper.
+
+```bash
+paru -S paddock-git
+```
+
+### everywhere else
 
 ```bash
 pipx install git+https://github.com/shadowash8/paddock.git
