@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "paddock"
+version = "0.1.0"
+description = "A random F1 quote or meme terminal ASCII art generator "
+readme = "readme.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+authors = [{ name = "shadowash8" }]
+keywords = ["formula1", "f1", "ascii", "banner", "terminal", "pyfiglet"]
+dependencies = [
+  "pyfiglet"
+]
+
+[project.urls]
+Homepage = "https://github.com/shadowash8/paddock"
+Repository = "https://github.com/shadowash8/paddock"
+Issues = "https://github.com/shadowash8/paddock/issues"
+
+[project.scripts]
+paddock = "paddock:main"
+
+[tool.setuptools]
+py-modules = ["paddock"]
