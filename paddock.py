@@ -20,7 +20,8 @@ QUOTES = [
     ("Sebastian Vettel, YOU ARE THE WORLD CHAMPION!", "Christian Horner"),
     ("Everyone is a Ferrari fan. Even if they're not, they are Ferrari fans.",
      "Sebastian Vettel"),
-    ("Ring-ding-ding-ding-ding!", "Mr. Vettel")
+    ("Ring-ding-ding-ding-ding!", "Sebastian Vettel"),
+    ("I did this in skool, but I forgot", "Carlos Science")
 ]
 
 FONTS = [
